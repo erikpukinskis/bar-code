@@ -1,6 +1,6 @@
 {
   "name": "bar-code",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "throw junk onto the heap and get an id to retrieve it with",
   "repository": {
     "type": "git",
